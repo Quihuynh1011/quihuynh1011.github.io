@@ -1,5 +1,7 @@
 # Huỳnh Văn Quí — Portfolio
 
+🌐 Website: https://quihuynh1011.github.io
+
 Website portfolio cá nhân của **Huỳnh Văn Quí**, Giám đốc Tài chính (CFO), 15 năm kinh nghiệm.
 
 - Website tĩnh (HTML/CSS/JS), không cần build. Mở `index.html` là chạy.
