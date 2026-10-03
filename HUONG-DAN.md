@@ -33,6 +33,19 @@ Nếu sửa xong mà trang trắng, rất có thể bị thiếu hoặc thừa d
 
 ## 4. Đưa website lên mạng (miễn phí, để có link gửi nhà tuyển dụng)
 
+**Website đang chạy tại: https://quihuynh1011.github.io** (GitHub Pages, repo `Quihuynh1011/quihuynh1011.github.io`).
+
+**Cập nhật website sau khi sửa nội dung:** mở Terminal, chạy lần lượt:
+```bash
+cd ~/Downloads/CLAUDECODE/portfolio
+git add -A
+git commit -m "Cập nhật nội dung"
+git push
+```
+Khoảng 1 phút sau, website trên mạng sẽ tự cập nhật. Cũng có thể nhờ Claude Code: "đẩy thay đổi lên GitHub".
+
+Các cách khác (nếu không dùng GitHub):
+
 **Cách nhanh nhất: Netlify Drop**
 1. Vào https://app.netlify.com/drop (đăng ký bằng email hoặc Google).
 2. Kéo-thả **cả thư mục `portfolio`** vào trang.
